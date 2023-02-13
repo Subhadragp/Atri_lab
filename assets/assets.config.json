@@ -1,0 +1,116 @@
+{
+  "logo.svg": {
+    "mime": "image/svg+xml"
+  },
+  "burgir.jpeg": {
+    "mime": "image/jpeg"
+  },
+  "app_1.svg": {
+    "mime": "image/svg+xml"
+  },
+  "app_2.svg": {
+    "mime": "image/svg+xml"
+  },
+  "app_3.svg": {
+    "mime": "image/svg+xml"
+  },
+  "app_4.svg": {
+    "mime": "image/svg+xml"
+  },
+  "menu_1.svg": {
+    "mime": "image/svg+xml"
+  },
+  "menu_2.svg": {
+    "mime": "image/svg+xml"
+  },
+  "menu_3.svg": {
+    "mime": "image/svg+xml"
+  },
+  "menu_4.svg": {
+    "mime": "image/svg+xml"
+  },
+  "about_us.jpeg": {
+    "mime": "image/jpeg"
+  },
+  "img_burger.jpeg": {
+    "mime": "image/jpeg"
+  },
+  "img_milkshake.jpeg": {
+    "mime": "image/jpeg"
+  },
+  "img_fries.jpeg": {
+    "mime": "image/jpeg"
+  },
+  "img_pancakes.jpeg": {
+    "mime": "image/jpeg"
+  },
+  "img_icecream.jpeg": {
+    "mime": "image/jpeg"
+  },
+  "img_cburger.jpeg": {
+    "mime": "image/jpeg"
+  },
+  "img_eggtoast.jpeg": {
+    "mime": "image/jpeg"
+  },
+  "img_soda.jpeg": {
+    "mime": "image/jpeg"
+  },
+  "img_visit.svg": {
+    "mime": "image/svg+xml"
+  },
+  "img_contact.svg": {
+    "mime": "image/svg+xml"
+  },
+  "img_email.svg": {
+    "mime": "image/svg+xml"
+  },
+  "delicious_burger.jpeg": {
+    "mime": "image/jpeg"
+  },
+  "left-arrow-svgrepo-com.svg": {
+    "mime": "image/svg+xml"
+  },
+  "right-arrow-svgrepo-com.svg": {
+    "mime": "image/svg+xml"
+  },
+  "star-svgrepo-com.svg": {
+    "mime": "image/svg+xml"
+  },
+  "face1.jpg": {
+    "mime": "image/jpeg"
+  },
+  "our_articles_img_left.jpeg": {
+    "mime": "image/jpeg"
+  },
+  "our_articles_img_1.jpeg": {
+    "mime": "image/jpeg"
+  },
+  "our_articles_img_2.jpeg": {
+    "mime": "image/jpeg"
+  },
+  "our_articles_img_3.jpeg": {
+    "mime": "image/jpeg"
+  },
+  "our_articles_img_4.jpeg": {
+    "mime": "image/jpeg"
+  },
+  "insta_burgers.jpeg": {
+    "mime": "image/jpeg"
+  },
+  "insta_fries.jpeg": {
+    "mime": "image/jpeg"
+  },
+  "insta_1.jpeg": {
+    "mime": "image/jpeg"
+  },
+  "insta_2.jpeg": {
+    "mime": "image/jpeg"
+  },
+  "insta_3.jpeg": {
+    "mime": "image/jpeg"
+  },
+  "insta_4.jpeg": {
+    "mime": "image/jpeg"
+  }
+}
